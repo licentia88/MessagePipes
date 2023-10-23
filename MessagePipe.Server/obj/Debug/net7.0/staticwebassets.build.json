@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7fEGVfyqTGpDCrhdpEmGHbxl7GcccWmnhdd14a060lA=",
+  "Source": "MessagePipe.Server",
+  "BasePath": "_content/MessagePipe.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

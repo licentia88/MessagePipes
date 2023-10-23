@@ -1,0 +1,114 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MessagePipe.Web/1.0.0": {
+        "dependencies": {
+          "MessagePipe": "1.7.4",
+          "MessagePipe.Interprocess": "1.7.4"
+        },
+        "runtime": {
+          "MessagePipe.Web.dll": {}
+        }
+      },
+      "MessagePack/2.3.85": {
+        "dependencies": {
+          "MessagePack.Annotations": "2.3.85"
+        },
+        "runtime": {
+          "lib/net5.0/MessagePack.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.85.30390"
+          }
+        }
+      },
+      "MessagePack.Annotations/2.3.85": {
+        "runtime": {
+          "lib/netstandard2.0/MessagePack.Annotations.dll": {
+            "assemblyVersion": "2.3.0.0",
+            "fileVersion": "2.3.85.30390"
+          }
+        }
+      },
+      "MessagePipe/1.7.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/MessagePipe.dll": {
+            "assemblyVersion": "1.7.4.0",
+            "fileVersion": "1.7.4.0"
+          }
+        }
+      },
+      "MessagePipe.Interprocess/1.7.4": {
+        "dependencies": {
+          "MessagePack": "2.3.85",
+          "MessagePipe": "1.7.4",
+          "System.IO.Pipelines": "6.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/MessagePipe.Interprocess.dll": {
+            "assemblyVersion": "1.7.4.0",
+            "fileVersion": "1.7.4.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {},
+      "System.IO.Pipelines/6.0.3": {}
+    }
+  },
+  "libraries": {
+    "MessagePipe.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessagePack/2.3.85": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wOabnqkrXp7oeEYLY4Kd0m0eT4falJQukqvErfz5Y4FKKo9mSQQ1+rMxx9mapF2el+P0XQxiZOBKFm+oCvu0aw==",
+      "path": "messagepack/2.3.85",
+      "hashPath": "messagepack.2.3.85.nupkg.sha512"
+    },
+    "MessagePack.Annotations/2.3.85": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2GCYZ9qgNS5Og0tiqfhWRhcfDZI/iRi8t07R0fNic1HthMMRfWxWOKDIBhtMA1RwZM4BuRsmJXUgk3evyisb1w==",
+      "path": "messagepack.annotations/2.3.85",
+      "hashPath": "messagepack.annotations.2.3.85.nupkg.sha512"
+    },
+    "MessagePipe/1.7.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-499CbOgOACextnrkYt8nORpq3ebpuOF5AJPL4kYBOmBsFF01pSXJMPTj1JxwoOStFbTxl040pqWTpP4UGm2Blw==",
+      "path": "messagepipe/1.7.4",
+      "hashPath": "messagepipe.1.7.4.nupkg.sha512"
+    },
+    "MessagePipe.Interprocess/1.7.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ftIPp+SjfEnHpWoyAunIL7ZR2JqQ5ej/bafoUHllZ65I4gi04vMB3QP62v32Ruk8khMzoSSjCvVZx2/MQCr9ng==",
+      "path": "messagepipe.interprocess/1.7.4",
+      "hashPath": "messagepipe.interprocess.1.7.4.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "System.IO.Pipelines/6.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==",
+      "path": "system.io.pipelines/6.0.3",
+      "hashPath": "system.io.pipelines.6.0.3.nupkg.sha512"
+    }
+  }
+}

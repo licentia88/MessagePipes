@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{C019E4F2-365D-406C-B393-57DAC235CF91}" ItemName="MessagePipe.Server" ConfigurationId="https" />
+        <StartupItem ItemId="{F3508856-E92C-4A7E-B471-AC176D83D20A}" ItemName="MessagePipe.Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.MessagePipe.Server PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.ItemProperties.MessagePipe.Web PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/asimgunduz/Projects/MessagePipesSolution/MessagePipe.Server/Handlers/SampeNamedPipeHandler.cs" relfile="Handlers/SampeNamedPipeHandler.cs" line="8" column="1" />
+      <Breakpoint file="/Users/asimgunduz/Projects/MessagePipesSolution/MessagePipe.Web/Pages/Index.razor.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MessagePipe.Web/Pages/_Host.cshtml">
+    <Files>
+      <File FileName="Services/GreeterService.cs" />
+      <File FileName="../MessagePipe.Web/Program.cs" Line="17" Column="2" />
+      <File FileName="../MessagePipe.Web/Pages/Index.razor.cs" Line="15" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="../MessagePipe.Web/Pages/Index.razor" />
+      <File FileName="../MessagePipe.Web/Pages/_Host.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MessagePipeSolution">
+            <Node name="MessagePipe.Server" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MessagePipe.Web">
+              <Node name="Pages" expanded="True">
+                <Node name="_Host.cshtml" selected="True" />
+                <Node name="Index.razor" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

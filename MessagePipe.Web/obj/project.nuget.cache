@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3ufGXIHuOpz6/gA5xxz7n+TrjqEDYUowc+yIKr3OPcIXOSR1TszF8NVTS9KbRvsHev1ti38mngpe3m/MAaYaA==",
+  "success": true,
+  "projectFilePath": "/Users/asimgunduz/Projects/MessagePipesSolution/MessagePipe.Web/MessagePipe.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/asimgunduz/.nuget/packages/messagepack/2.3.85/messagepack.2.3.85.nupkg.sha512",
+    "/Users/asimgunduz/.nuget/packages/messagepack.annotations/2.3.85/messagepack.annotations.2.3.85.nupkg.sha512",
+    "/Users/asimgunduz/.nuget/packages/messagepipe/1.7.4/messagepipe.1.7.4.nupkg.sha512",
+    "/Users/asimgunduz/.nuget/packages/messagepipe.interprocess/1.7.4/messagepipe.interprocess.1.7.4.nupkg.sha512",
+    "/Users/asimgunduz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/asimgunduz/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

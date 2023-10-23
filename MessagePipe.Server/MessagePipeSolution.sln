@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagePipe.Server", "MessagePipe.Server.csproj", "{C019E4F2-365D-406C-B393-57DAC235CF91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagePipe.Web", "..\MessagePipe.Web\MessagePipe.Web.csproj", "{F3508856-E92C-4A7E-B471-AC176D83D20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C019E4F2-365D-406C-B393-57DAC235CF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C019E4F2-365D-406C-B393-57DAC235CF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C019E4F2-365D-406C-B393-57DAC235CF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C019E4F2-365D-406C-B393-57DAC235CF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3508856-E92C-4A7E-B471-AC176D83D20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3508856-E92C-4A7E-B471-AC176D83D20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3508856-E92C-4A7E-B471-AC176D83D20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3508856-E92C-4A7E-B471-AC176D83D20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D817F2-CD65-4E4E-B511-F54F5286AB7A}
+	EndGlobalSection
+EndGlobal
